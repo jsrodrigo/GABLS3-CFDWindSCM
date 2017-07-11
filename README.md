@@ -1,6 +1,6 @@
 # GABLS3-CFDWindSCM: Assessment of meso-micro offline coupling methodology based on driving CFDWind single-column-model with WRF tendencies: the GABLS3 diurnal cycle case
 
-In this repository you can find the jupyter notebook that was used to post-process CFDWindSCM simulations that were used to define the GABLS3 diurnal cycle benchmark for wind energy applications: 
+In this repository you can find the jupyter notebook that was used to post-process CFDWindSCM simulations of the GABLS3 diurnal cycle case. Based on this work a Windbench benchmark for wind energy applications was designed: 
 http://windbench.net/gabls-3 
 
 The input data is fetched from a EUDAT repository: 
