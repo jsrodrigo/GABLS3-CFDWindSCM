@@ -3,7 +3,7 @@
 In this repository you can find the jupyter notebook that was used to post-process CFDWindSCM simulations of the GABLS3 diurnal cycle case. Based on this work a Windbench benchmark for wind energy applications was designed: 
 http://windbench.net/gabls-3 
 
-The input data is fetched from a EUDAT repository: 
+The input data can be fetched from the EUDAT repository: 
 https://b2share.eudat.eu/records/22e419b663cb4ffca8107391b6716c1b 
 
 and the validation data from the original GABLS3 website at KNMI:
