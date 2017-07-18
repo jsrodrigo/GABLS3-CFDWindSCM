@@ -10,6 +10,6 @@ and the validation data from the original GABLS3 website at KNMI:
 http://projects.knmi.nl/gabls/gabls3_scm_cabauw_obs_v33.nc
 
 The results were published in the following journal paper: 
-Sanz Rodrigo J, Churchfield M, Kosović B (2017) A methodology for the design and testing of atmospheric boundary layer models for wind energy applications. Wind Energ. Sci. 2: 1-20, doi:10.5194/wes-2-1-2017
+Sanz Rodrigo J, Churchfield M, Kosović B (2017) A methodology for the design and testing of atmospheric boundary layer models for wind energy applications. Wind Energ. Sci. 2: 1-20, https://doi.org/10.5194/wes-2-35-2017
 
 
