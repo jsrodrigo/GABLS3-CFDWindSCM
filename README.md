@@ -4,7 +4,7 @@ In this repository you can find the jupyter notebook that was used to post-proce
 http://windbench.net/gabls-3 
 
 The input data can be fetched from the EUDAT repository: 
-https://b2share.eudat.eu/records/22e419b663cb4ffca8107391b6716c1b 
+http://doi.org/10.23728/b2share.22e419b663cb4ffca8107391b6716c1b 
 
 and the validation data from the original GABLS3 website at KNMI:
 http://projects.knmi.nl/gabls/gabls3_scm_cabauw_obs_v33.nc
